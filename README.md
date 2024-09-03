@@ -1,6 +1,7 @@
 ## Hi there 👋
 
-<!--
+Graduanda em Relações Internacionais (3º) na UNESP - campus Franca. Faço parte do “Observatório de Políticas Públicas (OPPs)” , um grupo parte do “Núcleo de Estudos de Políticas Públicas - Elza de Andrade Oliveira (NEPPs)”. Atualmente pesquisadora bolsista pela PIBITI CNPq, com a pesquisa “Observatório de Políticas Públicas: construção de uma base de dados a partir das informações disponíveis nos Diários Oficiais Municipais”, focando em Seguridade Social e Educação na Região Administrativa de Franca.
+ <!--
 **anagalvesr/anagalvesr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
